@@ -150,3 +150,169 @@
     margin:0 auto;
     margin-top:30px;
 }
+.big-div
+{
+    width:1140px;
+    height: 1437px;
+    margin:0 auto;
+    margin-top:60px;
+}
+.big-div-1-1{
+    width: 852px;
+    height:113px;
+    margin:0 auto;
+}
+.all-box{
+    width:1140px;
+    height:299px;
+    display:flex;
+    margin-top: 20px;
+}
+
+
+
+
+
+.secondary-box-1
+{
+    width:364px;
+    height: 299px;
+    margin-left:10px ;
+    background-color: rgba(255, 76, 30, 5%);
+}
+.secondary-box-1-1
+{ width:284px;
+    height:226px;
+    margin:0 auto;
+    margin-top: 40px;
+
+}
+
+
+
+
+
+
+
+
+.secondary-box-2{
+    width:364px;
+    height:299px;
+    margin-left:10px;
+    margin-right:10px;
+    background-color: rgba(0, 76, 232, 5%);
+
+}
+.secondary-box-2-2
+{
+    width:284px;
+    height:226px;
+    margin:0 auto;
+    margin-top: 40px;
+}
+
+.secondary-box-3
+{width:364px;
+    height:299px;
+    
+    margin-right:10px;
+    background-color: rgba(255,223,0, 5%);
+}
+.secondary-box-3-3
+{
+    width:284px;
+    height:226px;
+    
+    margin:0 auto;
+    margin-top: 40px;
+}
+.big-div-2
+{
+    width:1140px;
+    height:866px;
+    margin-top:100px;
+}
+.normal
+{
+    width:946px;
+    height:113px;
+    margin:0 auto;
+}
+.three-ta-grid{
+    width: 1140px;
+    height: 705px;
+
+}
+.row-box-1{
+    width:1140px;
+    height:219px;
+    border:3px solid ghostwhite;
+    border-radius: 10px;
+    margin-top:30px;
+}
+    
+
+.row-box-1-1{
+    width:1060px;
+    height:139px;
+    margin:0 auto;
+    margin-top:40px;
+    display:flex;
+    
+
+}    
+.image-choto-1{
+    width:100px;
+    height:139px;
+    
+}
+
+
+.row-box-2{
+    width:1140px;
+    height:219px;
+    border:3px solid ghostwhite;
+    border-radius: 10px;
+    margin-top:30px;
+
+}
+.row-box-2-2
+{ width: 1060px;
+    height:139px;
+    margin:0 auto;
+    margin-top:40px;
+    display:flex;
+
+}
+.image-choto-2{
+    width:142px;
+    height:139px;
+    
+}
+
+
+
+
+
+
+.row-box-3{
+    width:1140px;
+    height:219px;
+    border:3px solid ghostwhite;
+    border-radius: 10px;
+    margin-top:30px;
+
+}
+.row-box-3-3
+{width: 1060px;
+    height:139px;
+    margin:0 auto;
+    margin-top:40px;
+    display:flex;
+
+
+}
+.image-choto-3{
+    width:100px;
+    height:139px;
+}
