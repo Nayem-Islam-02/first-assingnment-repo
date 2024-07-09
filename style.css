@@ -1,0 +1,152 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    font-family: "Azeret Mono", monospace;
+}
+
+
+
+
+
+
+.contain-banner
+{
+    width:1440px ;
+    height:652px ;
+    max-width: 1320px;
+    margin-top: 20px;
+    margin:0 auto;
+    background-image:url("file:///C:/B10A1-Challenge-Begins/assets/Hero-bg.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;}
+    
+    /* banner-contain */
+.banner-contain
+{
+    width:998px;
+    height:500px;
+    margin:0 auto;
+    margin-top: 25px;
+}
+.code-pic
+{
+    width:240.28px;
+    height: 240px;
+    margin:0 auto;
+    
+
+}
+
+.meta {
+    text-align: center;
+    width:996px;
+    height:309px;
+    margin-top:130px;
+}
+
+.first-main{
+    width:1140px;
+    height:1393px;
+    margin:0 auto; 
+    margin-top:40px;
+    background-color: rgba(13, 19, 33, 2%);
+}
+
+.first-main-2nd
+{
+    width:946px;
+    height:1233px;
+    margin:0 auto;
+    margin-top:75px;
+    background-color: ;
+}
+.first-main-2nd-3 h1 {
+    color:rgba(13, 19, 33, 100%)
+
+}
+.first-main-2nd-3  {
+    margin:0 auto;
+    text-align:center;
+    width:852px;
+    height:113px;
+
+}
+.main-box-1 {
+    width:946px;
+    height:336px;
+    background-color: rgba(255,255,255, 100%);
+    display: flex;
+}
+.main-box-1-1 {
+    width:850px;
+    height:240px;
+    margin:0 auto;
+    margin-top:45px;
+    margin-left: 50px;
+}
+.main-box-2{
+    width:946px;
+    height:336px;
+    display:flex;
+    margin-top: 20px;
+    background-color: rgba(255,255,255, 100%);
+    
+}
+.main-box-2-2
+{
+    width: 477px;
+    height: 232px;
+    margin:0 auto;
+    margin-right:40px;
+    margin-top:45px;
+    
+}
+.image-group
+{
+    width:240px;
+    height:240px;
+    margin-top:45px ;
+}
+.main-box-3
+{
+    width:946px;
+    height:336px;
+    background-color: rgba(255,255,255, 100%);
+    margin-top: 40px;
+    display:flex;
+}
+.main-box-3-3 {
+    width:484px;
+    height:219px;
+    margin:0 auto;
+    margin-top:45px;
+    margin-left:45px;
+
+}
+.image-4 {
+    width:240px;
+    height:240px;
+    margin-top:10px;
+}
+.second-main
+{
+    width:1140px;
+    height:775px;
+    margin:0 auto;
+    margin-top:65px;
+}
+.second-main-1
+{
+    width:852px;
+    height:113px;
+    margin:0 auto;
+}
+.video
+{
+    width:1100px;
+    height:614px;
+    margin:0 auto;
+    margin-top:30px;
+}
