@@ -354,4 +354,33 @@
     margin-right:250px;
 
 }
+.last-footer
+{
+    width:1440px;
+    height:100px;
+    margin:0 auto;
+    background-color:rgba(13, 19, 33, 3%);
+    margin-top:50px;
+    
+    
+}
+.last-footer  ul li {
+    list-style: none;
+    margin-right:50px;
+    margin-bottom:40px ;
+}
+.last-footer  ul {
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+
+}
+.all-ul
+{
+    margin:0 auto;
+    width:30px;
+    height :50px;
+    
+    display:flex;
+}
 
