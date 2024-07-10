@@ -289,12 +289,6 @@
     height:139px;
     
 }
-
-
-
-
-
-
 .row-box-3{
     width:1140px;
     height:219px;
@@ -310,9 +304,54 @@
     margin-top:40px;
     display:flex;
 
-
 }
 .image-choto-3{
     width:100px;
     height:139px;
 }
+.footer-1{
+    width:1140px;
+    height:313px;
+    max-width: 1320px;
+    background-image: url(file:///C:/B10A1-Challenge-Begins/assets/handshake.jpg);
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size: cover;
+    margin:0 auto;
+    margin-top: 30px;
+    
+
+}
+.footer-1-1{
+    width:1044px;
+    height:185px;
+    margin:0 auto;
+    margin-top:70px;
+
+}
+.first-footer
+{
+    width:730px;
+    height:95px;
+    margin:0 auto;
+    text-align: center;
+}
+.button{
+    
+    
+    margin:0 auto;
+    margin-top: 30px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.input-maker{
+    width:313px;
+    height:19px;
+    margin-bottom: 40px;
+    margin-right:250px;
+
+}
+
